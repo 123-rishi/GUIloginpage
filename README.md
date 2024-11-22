@@ -1,4 +1,4 @@
-![{E8232DED-3189-4433-960B-76491A869CB7}](https://github.com/user-attachments/assets/20b64de1-3e9a-46d5-8a3b-fe4372aaa2eb)# GUIloginpage
+## GUIloginpage
 
 This project is a simple **Login Page GUI** built using Python's **Tkinter** library. The GUI provides a user-friendly interface for users to enter their credentials and validate their login.
 
